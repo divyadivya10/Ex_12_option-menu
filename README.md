@@ -1,5 +1,9 @@
 # Ex: 10 Option Menu
+Developed by: DIVYA R
 
+Registration Number : 212222040040
+
+Date:21/10/24
 ## AIM:
 To create a option menu to display menu items using Android Studio.
 
@@ -24,8 +28,6 @@ Step 7: Save and run the application.
 ## PROGRAM:
 /*
 Program to print the text “optionmenu”.
-Developed by: DIVYA R
-Registration Number : 212222040040
 */
 
 ### activity_main.xml
